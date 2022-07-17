@@ -1,8 +1,6 @@
-pdc
-*.c
-*.cpp
-*.exe
-*.java
-*.class
-*.py
+atcoder/
+codechef/
+codeforces/
+dmoj/
+usaco/
 tempCodeRunnerFile.*
