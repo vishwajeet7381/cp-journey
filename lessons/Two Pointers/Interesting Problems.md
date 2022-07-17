@@ -1,0 +1,1 @@
+1. [Vasya and Arrays|1600](https://codeforces.com/contest/1036/problem/D)

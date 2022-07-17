@@ -1,0 +1,1 @@
+1. [Remove Adjacent](https://www.codechef.com/FEB221B/problems/REMADJ)
