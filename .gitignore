@@ -7,8 +7,8 @@
 # Unignore all with extensions
 !*.*
 
-atcoder/**/**
-codechef/**/**
-codeforces/**/**
-dmoj/**/**
-usaco/**/**
+# atcoder/**/**
+# codechef/**/**
+# codeforces/**/**
+# dmoj/**/**
+# usaco/**/**
