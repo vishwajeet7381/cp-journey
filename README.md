@@ -37,7 +37,7 @@
 
 > How do I practice?
 
--   [Codeforces blog](<(https://codeforces.com/blog/entry/91114)>) by Radewoosh titled "My opinion on how to practice competitive programming"
+-   [Codeforces blog](https://codeforces.com/blog/entry/91114) by Radewoosh titled "My opinion on how to practice competitive programming"
 -   [Codeforces blog](https://codeforces.com/blog/entry/98806) by Um_nik titled "How to practice Competitive Programming [Um_nik version]"
 -   [Codeforces blog](https://codeforces.com/blog/entry/101561) by Geothermal titled "Thoughts on Reaching Cyan?"
 -   [Codeforces blog](https://codeforces.com/blog/entry/98621) by -is-this-fft- titled "Self-deception: maybe why you're still grey after practicing every day"
