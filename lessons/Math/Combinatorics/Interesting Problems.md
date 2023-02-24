@@ -1,1 +1,0 @@
-1. [Chef and Riffles](https://www.codechef.com/JAN221B/problems/RIFFLES)

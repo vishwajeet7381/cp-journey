@@ -1,1 +1,0 @@
-1. [Sequence Master](https://www.codechef.com/JAN221B/problems/MASTER)

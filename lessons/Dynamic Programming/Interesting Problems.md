@@ -1,1 +1,0 @@
-1. https://www.codechef.com/START21B/problems/MSUB121

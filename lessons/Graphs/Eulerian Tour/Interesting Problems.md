@@ -1,1 +1,0 @@
-1. [Generating Cycles](https://www.codechef.com/JAN221B/problems/GENECYC)

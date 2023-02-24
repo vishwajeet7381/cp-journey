@@ -1,1 +1,0 @@
-1. [Mean equals Median](https://www.codechef.com/START21B/problems/MEANIDIAN)
