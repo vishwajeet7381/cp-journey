@@ -44,7 +44,7 @@
 
 ## Readings and Suggestions
 
-> How do I start competitive programming?
+> **How do I start competitive programming?**
 
 -   Maybe by giving one contest on any of the platform listed above!
 
