@@ -13,7 +13,7 @@
 
 ## Online Judges
 
-> Host contests
+> **Host contests**
 
 -   [Codeforces](https://codeforces.com)
 -   [Atcoder](https://atcoder.jp)
@@ -24,7 +24,7 @@
 -   [Kattis](https://open.kattis.com)
 -   [Leetcode](https://leetcode.com)
 
-> Doesn't host contests
+> **Doesn't host contests**
 
 -   [CSES](https://cses.fi/problemset/list)
 -   [Timus](https://acm.timus.ru)
@@ -48,19 +48,19 @@
 
 -   Maybe by giving one contest on any of the platform listed above!
 
-> How do I practice?
+> **How do I practice?**
 
 -   [Codeforces blog](https://codeforces.com/blog/entry/91114) by Radewoosh titled "My opinion on how to practice competitive programming"
 -   [Codeforces blog](https://codeforces.com/blog/entry/98806) by Um_nik titled "How to practice Competitive Programming [Um_nik version]"
 -   [Codeforces blog](https://codeforces.com/blog/entry/101561) by Geothermal titled "Thoughts on Reaching Cyan?"
 -   [Codeforces blog](https://codeforces.com/blog/entry/98621) by -is-this-fft- titled "Self-deception: maybe why you're still grey after practicing every day"
 
-> How do I know about upcoming contests in one place?
+> **How do I know about upcoming contests in one place?**
 
 -   Join the discord server, [Errichto Server Official](https://discord.gg/pRBBvPdT5k) and get the `Contestant` server role.
 -   Check the [clist.by](https://clist.by) website.
 
-> How do I resolve my doubts and (virtually) meet like-minded people?
+> **How do I resolve my doubts and (virtually) meet like-minded people?**
 
 -   You can join several online CP communities; links are below (in no particular order).
     -   **Discord servers**
